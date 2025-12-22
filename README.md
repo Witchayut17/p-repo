@@ -1,8 +1,11 @@
-# My name is Witchayut Withichai
+<!DOCTYPE html>
+<html>
+<body>
 
-### I'm Nisit
+<?php
+$x = 17;
+echo $x;
+?>  
 
-#### i add this line in my p-1branch
-
-#### i add this line in my main branch
-#### i add this line in my p-1branch againn
+</body>
+</html>
